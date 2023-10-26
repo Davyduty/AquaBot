@@ -1,7 +1,7 @@
 {
-  "name": "aquabot",
+  "name": "Davyduty",
   "version": "1.0.1",
-  "description": "aquabot happy for whatsapp.",
+  "description": "Capture The Caption CTF.",
   "main": "/aquabot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
@@ -22,8 +22,8 @@
     "whatsapp web",
     "whatsapp api"
   ],
-  "author": "sanuwa",
-  "developer": "sanuwa",
+  "author": "Davyduty",
+  "developer": "Davyduty",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/sanuwaofficial/AquaBot/issues"
