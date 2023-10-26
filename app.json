@@ -1,8 +1,8 @@
 {
-    "name": "Aquabot",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
+    "name": "Davyduty",
+    "description": "Davyduty  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/LhyDWxR/aquabot.jpg",
-    "keywords": ["whatsapp", "userbot", "aqua", "WhatsAsena", "bot", "api", "ai"],
+    "keywords": ["whatsapp", "userbot", "Davyduty", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/iamMagma/ptsp",
     "website":   "https://aquabot.ga/",
     "success_url": "https://sanuw-api.herokuapp.com/",
